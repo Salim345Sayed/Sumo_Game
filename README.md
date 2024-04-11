@@ -1,5 +1,5 @@
 # Sumo_Game
-A rought Sumo Game Made in 2024
+A rough Sumo Game Made in 2024
 
 The premise of the game is to eat as many burgers, fries, hotdogs, pizzas & soda's in order to increase weight.
 - Player has 3 lives.
