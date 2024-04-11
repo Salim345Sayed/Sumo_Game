@@ -13,4 +13,5 @@ Current unresolved bugs.
 - Main menu music will keep layering over eachother when the main menu is activated.
 - Space bar causes the game to reset.
 - When the high score shows the player rect and the weight stays on the screen.
-- I initially wanted to store the top 10 scores but due to limited knowledge, i was unable so currently the top weight is displayed. 
+- I initially wanted to store the top 10 scores but due to limited knowledge, i was unable so currently the top weight is displayed.
+- Code could be in classes & in a more modular format, as i understand how classes work i will update these issues.
